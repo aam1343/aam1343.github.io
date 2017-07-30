@@ -128,16 +128,16 @@ footer { font-size: 10px;
 .pork left {text-align: left;
 margin: 10px;  
 width: 60%; 
-height: 220px;
-
+height: 220px; 
 }
 
-.pork
+.porky {display: inline-block;}
+
 /* wine page */
 
 .wine {height: 80%; display: inline-block; width: 1248px; }
 
-.container {display: inline-block;}
+
 
 .porkpage {font-size: 17px; 
    font-family: 'Open Sans Condensed', sans-serif;
